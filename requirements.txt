@@ -1,0 +1,5 @@
+telethon
+cryptg
+requests
+python-docx
+fpdf2
